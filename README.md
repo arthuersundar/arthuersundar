@@ -1,6 +1,6 @@
 # Hi there, I'm Sundar Djeabalane 👋
 
-Senior Cloud Architect and AI/ML Platform Engineer with over 15 years of experience architecting large-scale data and GenAI infrastructure for enterprise production systems. I specialize in Generative AI (GenAI), LLMOps, MLOps, multi-agent frameworks, and building resilient, cost-effective cloud-native AI platforms.
+Senior Cloud Architect & Generative AI Platform Engineer with over 15+ years of experience architecting large-scale data and GenAI infrastructure for enterprise production systems. I specialize in Generative AI (GenAI), LLMOps, MLOps, multi-agent frameworks, and building resilient, cost-effective cloud-native AI platforms.
 
 - 🏢 **Most Recent Role:** Senior Cloud Architect & AI/ML Platform Lead at 7-Eleven, Inc.
 - 🤖 **Core Focus:** Scaling Generative AI infrastructure and production-grade LLM applications across multi-cloud environments (Azure, AWS).
