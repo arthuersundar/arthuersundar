@@ -11,38 +11,22 @@ Senior Cloud Architect & Generative AI Platform Engineer with over 15+ years of 
 ## 🛠️ Generative AI & Cloud Infrastructure Ecosystem
 
 ### 🤖 Generative AI & LLMOps
-![OpenAI](https://shields.io)
-![Anthropic Claude](https://shields.io)
-![Hugging Face](https://shields.io)
-![LangChain](https://shields.io)
-![Databricks](https://shields.io)
-![MLflow](https://shields.io)
-![vLLM](https://shields.io)
+*   **Core Systems:** OpenAI `GPT-4` | Anthropic `Claude` | Hugging Face `Transformers`
+*   **Frameworks:** LangChain | LangGraph | LlamaIndex | Multi-Agent Frameworks (CrewAI, AutoGen)
+*   **LLMOps Infrastructure:** Databricks (Unity Catalog) | MLflow | vLLM Inference Optimization | Model Registries
 
 ### ☸️ Cloud-Native & Orchestration
-![Kubernetes](https://shields.io)
-![Docker](https://shields.io)
-![Helm](https://shields.io)
-![Apache Airflow](https://shields.io)
-![Terraform](https://shields.io)
-![Ansible](https://shields.io)
-![AWS](https://shields.io)
-![Azure](https://shields.io)
+*   **Containerization:** Kubernetes (`AKS` / `EKS` Multi-Tenant GPU Scheduling) | Docker | Helm
+*   **Pipelines & IaC:** Apache Airflow (Astronomer) | Terraform | Ansible | GitLab CI/CD
+*   **Cloud Architecture:** Amazon Web Services (`AWS`) | Microsoft `Azure` | Google Cloud (`GCP`)
 
 ### 📊 Vector Datastores & Data Platforms
-![Pinecone](https://shields.io)
-![Weaviate](https://shields.io)
-![Apache Spark](https://shields.io)
-![Snowflake](https://shields.io)
-![Kafka](https://shields.io)
+*   **Vector Search:** Pinecone | Weaviate | Milvus | `pgvector` (Hybrid Search / Semantic Caching)
+*   **Data Scale:** Apache Spark | Databricks Delta Lake | Snowflake | Apache Kafka
 
 ### 📈 Observability & AIOps
-![Monte Carlo](https://shields.io)
-![New Relic](https://shields.io)
-![Datadog](https://shields.io)
-![Splunk](https://shields.io)
-![Prometheus](https://shields.io)
-![Grafana](https://shields.io)
+*   **Data Reliability:** Monte Carlo (Data-Quality Circuit Breakers)
+*   **Infrastructure APM:** New Relic | Datadog | Splunk | OpenTelemetry | Prometheus | Grafana
 
 ---
 
