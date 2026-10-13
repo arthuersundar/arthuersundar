@@ -67,6 +67,6 @@ An enterprise-optimized layout for hosting large open-weights foundation models 
 
 ## 🌐 Connect With Me
 
-*   **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/sundar-djeabalane/)
-*   **GitHub:** [arthuer.sundar@gmail.com](https://github.com/arthuersundar)
+*   **LinkedIn:** [linkedin.com/in/sundar-djeabalane](https://www.linkedin.com/in/sundar-djeabalane/)
+*   **GitHub:** [github.com/arthuersundar](https://github.com/arthuersundar)
 *   **Email:** [arthuer.sundar@gmail.com](mailto:arthuer.sundar@gmail.com)
