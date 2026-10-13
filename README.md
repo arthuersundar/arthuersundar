@@ -48,8 +48,7 @@ An enterprise-optimized layout for hosting large open-weights foundation models 
 ## 📜 Certifications & Education
 
 *   **CKA:** Certified Kubernetes Administrator (*The Linux Foundation*)
-*   **AWS:** Certified DevOps Engineer – Professional
-*   **AWS:** Certified SysOps Administrator – Associate
+*   **AWS:** Certified SysOps Administrator – Associate & Certified DevOps Engineer – Professional
 *   **HashiCorp:** Terraform Associate
 *   **Education:** B.Tech. in Computer Science and Engineering — Pondicherry Engineering College, India
 
@@ -57,5 +56,6 @@ An enterprise-optimized layout for hosting large open-weights foundation models 
 
 ## 🌐 Connect With Me
 
-*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+*   **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/sundar-djeabalane/)
+*   **GitHub:** [arthuer.sundar@gmail.com](https://github.com/arthuersundar)
 *   **Email:** [arthuer.sundar@gmail.com](mailto:arthuer.sundar@gmail.com)
