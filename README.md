@@ -32,13 +32,13 @@ Senior Cloud Architect & Generative AI Platform Engineer with over 15+ years of 
 
 ## 🚀 Featured GenAI & Infrastructure Projects
 
-### 🤖 [k8s-troubleshooting-agent](https://github.com)
+### 🤖 [k8s-troubleshooting-agent](https://github.com/arthuersundar/k8s-troubleshooting-agent)
 An autonomous GenAI troubleshooting agent built to diagnose live Kubernetes cluster issues. It leverages an advanced ReAct loop, Python-driven evaluation engines, and secure, read-only `kubectl` tool integrations to trace system faults dynamically via LLM reasoning.
 
-### 📚 [rag-platform](https://github.com)
+### 📚 [rag-platform](https://github.com/arthuersundar/rag-platform)
 A highly scalable Retrieval-Augmented Generation (RAG) assistant trained across the entirety of Kubernetes documentation. Fully containerized and deployed on K8s via Helm, utilizing `pgvector` and `Ollama` alongside automated performance, grounding, and accuracy evaluation cycles.
 
-### ⚡ [vllm-gpu-k8s](https://github.com)
+### ⚡ [vllm-gpu-k8s](https://github.com/arthuersundar/vllm-gpu-k8s)
 An enterprise-optimized layout for hosting large open-weights foundation models using vLLM on Kubernetes. Features advanced GPU multi-tenant scheduling setups, custom Helm charts, and metrics engines designed to optimize throughput and cost-per-token GenAI serving benchmarks.
 
 ---
