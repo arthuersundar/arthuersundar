@@ -41,6 +41,9 @@ A highly scalable Retrieval-Augmented Generation (RAG) assistant trained across 
 ### ⚡ [vllm-gpu-k8s](https://github.com/arthuersundar/vllm-gpu-k8s)
 An enterprise-optimized layout for hosting large open-weights foundation models using vLLM on Kubernetes. Features advanced GPU multi-tenant scheduling setups, custom Helm charts, and metrics engines designed to optimize throughput and cost-per-token GenAI serving benchmarks.
 
+### ☁️ [langgraph-multi-llm-agent](https://github.com/arthuersundar/langgraph-multi-llm-agent) 
+AWS cost and governance agent built with LangGraph. It answers from company policies (RAG on S3 Vectors) plus live AWS data, runs on Bedrock or local vLLM/Ollama, routes easy questions to a cheap model and hard ones to a stronger one, and ships with a 16-question eval harness and a Terraform-deployed LLM gateway (API Gateway + Lambda).
+
 ---
 
 ## 💼 Core Professional Milestones
