@@ -56,6 +56,12 @@ AWS cost and governance agent built with LangGraph. It answers from company poli
 *   **Apple** | *Senior DevOps Engineer - Infrastructure & Platform Engineering*
     *   Containerized core internal ecosystems using Docker & Kubernetes for zero-drift deployments.
     *   Engineered automated validation and rollback CI/CD gates using Jenkins and Git across large-scale AWS data lakes supporting model artifact storage.
+*   **Northwestern Mutual** | *DevOps Engineer - Platform Engineering*
+    *   Automated CI/CD pipelines with Jenkins and Git, reducing deployment errors by 50%.
+    *   Automated security patching across environments, reducing exposures by 40%.
+*   **Citibank** | *Lead Middleware Administrator*
+    *   Administered enterprise application servers (WebSphere, WebLogic, Tomcat) for large-scale financial transaction systems.
+    *   Implemented a dual-cluster topology enabling zero-downtime deployments.
 
 ---
 
